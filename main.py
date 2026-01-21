@@ -5,8 +5,8 @@ import yt_dlp
 import os
 
 API_ID = 39519158
-API_HASH = "REPLACE_API_HASH"
-BOT_TOKEN = "REPLACE_BOT_TOKEN"
+API_HASH = "4b79fde088f7ecec7aa99b4b19446b3f"
+BOT_TOKEN = "8311106613:AAF6JSq1Dc0jCEI8uEG_vrvSGdOFr5RjVVQ"
 
 app = Client(
     "kingsmusic",
